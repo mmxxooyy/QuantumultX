@@ -1,1 +1,1 @@
-# QuantumultX
+# This project is deleted
